@@ -6,7 +6,6 @@
 <h3>• Multi-person conditional search (AND / OR)</h3>
 <h3>• Highly accurate person detection even in large-scale image datasets</h3>
 
-
 <h2>👉 The fastest and most accurate way to find people in your photos</h2>
 <ul>
   <li>Search all images by folder or file unit</li>
