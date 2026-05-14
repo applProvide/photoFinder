@@ -80,3 +80,73 @@
   <li>속도 최적화 구조 적용</li>
 </ul>
 
+
+<section>
+  <h1>사용자 메뉴얼 (실사용자용 설명)</h1>
+  <section>
+    <h2>1.기본화면 설명</h2>
+    <div>
+      <img width="711" height="456" alt="image" src="https://github.com/user-attachments/assets/b2f449d5-7dec-485c-a91b-3a74e51d226c" />
+    </div>
+    <ol>
+      <li>새로은 프로젝트를 생성합니다.</li>
+      <li>검색 조건이 표시됩니다.</li>
+      <li>선택된 검색조건에 따라 검색을 시작합니다.</li>
+      <li>생성된 프로젝트가 표시되며 수정/삭제/검색조건을 생성합니다.</li>
+      <li>선택된 프로젝트의 폴더 및 파일 목록을 표시합니다.</li>
+      <li>파일 원 클릭시 우측에 표시되면 더블클릭시 pc에서 파일을 열수 있습니다.</li>
+      <li>검색결곽가 표시됩니다.</li>
+    </ol>
+  </section>
+  <section>
+    <h2>2.프로젝트 생성</h2>
+    <h3>[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성합니다.</h3>
+    <div>
+     <img width="459" height="376" alt="image" src="https://github.com/user-attachments/assets/7d034dac-de51-4650-821c-be41286d2ea6" />
+    </div>
+    <ol>
+      <li>프로젝트 이름을 등록합니다.</li>
+      <li>검색조건에 포함할 폴더를 추가합니다.</li>
+      <li>검색조건에 포함할 파일을 추가합니다.</li>
+      <li>프로젝트를 저장합니다.</li>
+      <li>추가한 폴더나 파일을 삭제합니다.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>3.검색조건 생성</h2>
+    <h3>선탠된 프로젝트에서 [검색조건] 버튼을 클릭하여 검새조건을 생성합니다.</h3>
+    <div>
+     <img width="730" height="424" alt="image" src="https://github.com/user-attachments/assets/60447143-830a-42f9-819e-50204b453bc3" />
+    </div>
+     <ol>
+      <li>새로운 검색조건을 생성합니다.</li>
+      <li>검색조건을 저장합니다.</li>
+      <li>선택된 검색조건을 복사합니다.복사후 좌측에 복사된 이름이 표시됩니다.</li>
+      <li>생성된 검색조건이 표시됩니다.</li>
+      <li>사람간 and 와 or 로 조인합니다.</li>
+      <li>검색조건에 포함할 사람을 추가합니다.</li>
+      <li>사람 이름을 입력합니다.</li>
+      <li>단독으로 나온 사잔을 추가합니다.</li>
+      <li>사람을 삭제합니다.</li>
+      <li>사진을 수정합니다. </li>
+      <li>사진을 삭제합니다.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>4.검색조건으로 검색하기</h2>
+    <h3>프로젝트를 선택하여 생성된 검색조건으로 검색합니다.</h3>
+    <div>
+     <img width="704" height="459" alt="image" src="https://github.com/user-attachments/assets/fb2f8209-b61c-4068-b08b-99da249bbaea" />
+    </div>
+     <ol>
+      <li>프로젝트를 선택합니다.</li>
+      <li>검색조건을 선택합니다.</li>
+      <li>검색하기 버튼을 선택합니다.</li>
+      <li>검색된 경과가 인물 이름별로 표시됩니다.</li>
+       <li>사진을 클릭시 크게 볼수 있습니다.</li>
+    </ol>
+  </section>
+</section>
+
