@@ -100,11 +100,10 @@
 
 <section>
   <h1>User Manual (End-User Guide)</h1>
-
     <section>
     <h2>1. Main Screen Overview</h2>
     <div>
-      <img width="711" height="456" alt="image" src="https://github.com/user-attachments/assets/b2f449d5-7dec-485c-a91b-3a74e51d226c" />
+      <img width="711" height="428" alt="image" src="https://github.com/user-attachments/assets/20c19b84-63c1-4001-85c7-d6accf199e08" />
     </div>
     <ol>
       <li>Create a new project.</li>
@@ -117,11 +116,11 @@
     </ol>
   </section>
 
-    <section>
+  <section>
     <h2>2. Creating a Project</h2>
     <h3>Click the [New Project] button to create a project.</h3>
     <div>
-     <img width="459" height="376" alt="image" src="https://github.com/user-attachments/assets/7d034dac-de51-4650-821c-be41286d2ea6" />
+     <img width="459" height="373" alt="image" src="https://github.com/user-attachments/assets/35da60e2-c292-4ec5-abd1-850df3ab9786" />
     </div>
     <ol>
       <li>Enter the project name.</li>
@@ -137,7 +136,7 @@
     <h2>3. Creating Search Conditions</h2>
     <h3>Click the [Search Condition] button in the selected project to create conditions.</h3>
     <div>
-     <img width="730" height="424" alt="image" src="https://github.com/user-attachments/assets/60447143-830a-42f9-819e-50204b453bc3" />
+    <img width="729" height="424" alt="image" src="https://github.com/user-attachments/assets/48c36832-760b-438f-ac1c-f07874729815" />
     </div>
      <ol>
       <li>Create a new search condition.</li>
@@ -153,13 +152,11 @@
       <li>Delete photos.</li>
     </ol>
   </section>
-
-
-    <section>
+  <section>
     <h2>4. Searching with Conditions</h2>
     <h3>Select a project and search using the created conditions.</h3>
     <div>
-     <img width="704" height="459" alt="image" src="https://github.com/user-attachments/assets/fb2f8209-b61c-4068-b08b-99da249bbaea" />
+    <img width="704" height="431" alt="image" src="https://github.com/user-attachments/assets/e7a66f4a-f92f-4617-a437-3c9c4208618d" />
     </div>
      <ol>
       <li>Select a project.</li>
