@@ -1,4 +1,4 @@
-# photoFinder
+# PhotoFinder
 ### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Free Download](INSTALL.md)
 <h1>AI-Powered Face Recognition Image Search System</h1>
 <h2>A solution to quickly find the people you’re looking for among thousands of photos</h2>
