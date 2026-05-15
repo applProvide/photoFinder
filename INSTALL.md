@@ -1,10 +1,26 @@
 ### 🌐[English](INSTALL.md) | [한국어](INSTALL.ko.md)
 
-<h1>Download and start using OfficeFinder, the integrated document search program, with ease.</h1>
-<h2>OfficeFinder is available in two formats depending on your environment.</h2>
+<h1>Download and start using PhotoFinder, AI-Powered Face Recognition Image Search System</h1>
+<h2>PhotoFinder is available in two formats depending on your environment.</h2>
+<h2>A solution to quickly find the people you’re looking for among thousands of photos</h2>
+
+<h3>• High-speed image search powered by AI face recognition</h3>
+<h3>• Multi-person conditional search (AND / OR)</h3>
+<h3>• Highly accurate person detection even in large-scale image datasets</h3>
 <ul>
   <li>Installer Version: Install and use it like a standard application</li>
   <li>ZIP Version: Run instantly after extraction without installation</li>
+</ul>
+
+<h2>👉 The fastest and most accurate way to find people in your photos</h2>
+<ul>
+  <li>Search all images by folder or file unit</li>
+  <li>Automatic person detection using face recognition</li>
+  <li>Multi-person conditional search (AND / OR)</li>
+  <li>Precision search based on similarity</li>
+  <li>Fast processing even with large volumes of images</li>
+  <li>Filter photos containing specific individuals only</li>
+  <li>Search for photos with multiple people together</li>
 </ul>
 
 <h3><a href="https://github.com/applProvide/photoFinder/releases/download/v1.0.0/PhotoFinder_setup.zip">Download Installer</a></h3>
