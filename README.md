@@ -3,6 +3,19 @@
 <h1>AI-Powered Face Recognition Image Search System</h1>
 <h2>A solution to quickly find the people you’re looking for among thousands of photos</h2>
 
+## 🎬 Demo
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=l2XBWhyKwss">
+    <img src="https://img.youtube.com/vi/l2XBWhyKwss/0.jpg" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=l2XBWhyKwss">
+    <img src="https://img.shields.io/badge/▶-Watch%20Full%20Demo-red?style=for-the-badge&logo=youtube">
+  </a>
+</p>
+
 <h3>• High-speed image search powered by AI face recognition</h3>
 <h3>• Multi-person conditional search (AND / OR)</h3>
 <h3>• Highly accurate person detection even in large-scale image datasets</h3>
