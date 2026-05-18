@@ -2,6 +2,20 @@
 ### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Free Download](INSTALL.md)
 <h1>이미지 얼굴 인식 기반 통합 검색 프로그램</h1>
 <h2>수많은 사진 속에서 원하는 사람을 빠르게 찾는 솔루션</h2>
+
+## 🎬 Demo
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=l2XBWhyKwss">
+    <img src="https://img.youtube.com/vi/l2XBWhyKwss/0.jpg" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=l2XBWhyKwss">
+    <img src="https://img.shields.io/badge/▶-Watch%20Full%20Demo-red?style=for-the-badge&logo=youtube">
+  </a>
+</p>
+
 <h3>• AI 얼굴 인식 기반 고속 이미지 검색</h3>
 <h3>• 다중 인물 조건 검색 (AND / OR)</h3>
 <h3>• 대량 이미지에서도 높은 정확도의 인물 탐지</h3>
